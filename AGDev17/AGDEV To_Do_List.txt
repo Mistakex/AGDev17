@@ -4,7 +4,8 @@ Scene Graph:
 
 Spatial Partioning:
 - Light up the region where the player is standing on
-
+- Highlight a grid where the player is standing
+- More than 1 enemy standing in the grid , change colour
 LOD:
 - same environmental models with different poly counts
 
